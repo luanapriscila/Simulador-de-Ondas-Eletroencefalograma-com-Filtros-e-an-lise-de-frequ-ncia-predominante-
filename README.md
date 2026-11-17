@@ -1,0 +1,2 @@
+# Simulador-de-Ondas-Eletroencefalograma-com-Filtros-e-an-lise-de-frequ-ncia-predominante-
+Simulador de sinais eletroencefalogramas com frequência média de 240 Hz , simulador ruído com aplicação de filtro médio com bibliotecas Numpy e Matplotlib, aplicação da Transformada de Fourier espectral, analise da frequência predominante e plotagens de gráfico editado para Online Compilar Python. Criado com auxílio de Meta AI, acesso.2026 
